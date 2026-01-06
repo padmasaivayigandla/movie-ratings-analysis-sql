@@ -1,0 +1,12 @@
+# Data files
+*.csv
+*.xlsx
+
+# Database files
+*.db
+*.sql~
+
+# OS / Editor
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
